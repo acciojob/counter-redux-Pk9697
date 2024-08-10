@@ -7,8 +7,8 @@ const App = () => {
     <div>
       {/* Do not remove the main div */}
       <h1>0</h1>
-      <button>+</button>
-      <button>-</button>
+      <button>increment</button>
+      <button>decrement</button>
     </div>
   )
 }
